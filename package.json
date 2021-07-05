@@ -12,6 +12,12 @@
     "configuration"
   ],
   "main": "./index.js",
+  "files": [
+    "package.json",
+    "README.md",
+    "LICENSE",
+    "index.js"
+  ],
   "homepage": "https://github.com/gebsh/prettier-config#readme",
   "bugs": {
     "url": "https://github.com/gebsh/prettier-config/issues"
