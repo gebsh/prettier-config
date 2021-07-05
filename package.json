@@ -1,0 +1,30 @@
+{
+  "name": "@gebsh/prettier-config",
+  "version": "1.0.0",
+  "description": "gebsh's shareable Prettier configuration",
+  "author": "Szymon Gebler <gebler.szymon@gmail.com>",
+  "license": "ISC",
+  "keywords": [
+    "prettier",
+    "prettierconfig",
+    "prettier-config",
+    "config",
+    "configuration"
+  ],
+  "main": "./index.js",
+  "homepage": "https://github.com/gebsh/prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/gebsh/prettier-config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gebsh/prettier-config.git"
+  },
+  "devDependencies": {
+    "@types/prettier": "2.3.1",
+    "prettier": "2.3.2"
+  },
+  "peerDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
